@@ -1,0 +1,7 @@
+Financial Analysis
+--------------------
+Total Months={month_count}
+Total={profit_losses}
+Average Change={avg_diff}
+Greatest Increase in Profits={thebestmonth}({max_gain})
+Greatest Decrease in Profits={theworstmonth}({max_loss})
